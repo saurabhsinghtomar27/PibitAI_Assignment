@@ -1,0 +1,126 @@
+{
+  "name": "Saurabh Singh",
+  "contact": {
+    "email": "saurabh.singh.tr@gmail.com",
+    "mobile": "+91-6389585941",
+    "linkedin": "https://www.linkedin.com/in/saurabh-r-singh/",
+    "github": "https://github.com/saurabhsinghtomar27"
+  },
+  "skills": [
+    "Java",
+    "JavaScript",
+    "Python",
+    "SQL",
+    "React JS",
+    "Node JS",
+    "Git",
+    "GitHub",
+    "Express JS",
+    "MongoDB",
+    "Figma",
+    "Data Structure and Algorithms",
+    "Object Oriented Programming",
+    "Low Level Design"
+  ],
+  "certificates": [
+    {
+      "name": "Data Structures and Algorithms - Self Paced",
+      "organization": "Geeks for Geeks",
+      "date": "Jul' 23"
+    },
+    {
+      "name": "Neo Code-A-Thon",
+      "organization": "Lovely Professional University",
+      "date": "Oct' 22"
+    },
+    {
+      "name": "Algorithm Specialization",
+      "organization": "Coursera Stanford University",
+      "date": "May' 22"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Twitter - Social Media Platform",
+      "technology": ["React JS", "Express JS", "MongoDB"],
+      "outcomes": [
+        "Developed a full-featured Twitter clone with the MERN stack, including user authentication and real-time updates.",
+        "Implemented RESTful APIs with Node.js and Express.js for efficient handling of user data, posts, likes, and comments.",
+        "Developed front-end components using React, ensuring a dynamic and interactive user experience."
+      ],
+      "date": "Jul '24"
+    },
+    {
+      "name": "AI RUDRA - ChatBot",
+      "technology": ["React JS", "RestAPI", "Gemini-API-PRO"],
+      "outcomes": [
+        "Built a React JS AI chatBot which can Response to our Prompt.",
+        "It has Capable of Writing Code and Fixing Error Code.",
+        "It Fetch the Response from Gemini-Pro."
+      ],
+      "date": "May '24"
+    },
+    {
+      "name": "Fake News Detection",
+      "technology": ["Python", "Pandas", "Sklearn"],
+      "outcomes": [
+        "Developed a Machine Learning model using Python, Pandas, and Sklearn to achieve X% accuracy in fake news detection.",
+        "Cleaned and preprocessed the dataset using Python and Pandas, transforming it into a well-structured and ready-to-train dataset for the fake news detection models.",
+        "Implemented advanced data processing techniques to handle missing data, imbalanced classes, and text normalization, improving the model's predictive power."
+      ],
+      "date": "Jan '24"
+    }
+  ],
+  "achievements": [
+    {
+      "platform": "CodeChef",
+      "achievement": "Maximum 3 star"
+    },
+    {
+      "platform": "LeetCode",
+      "achievement": "Rating more than 1400 and Solved more than 500 Problems"
+    },
+    {
+      "platform": "Geeks for Geeks",
+      "achievement": "Solved more than 400 problems"
+    },
+    {
+      "platform": "HackerRank",
+      "achievement": "3 star at Java"
+    },
+    {
+      "platform": "GitHub",
+      "achievement": "Contributed to Indian Cities Json Repository"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Technology in Computer Science and Engineering",
+      "institution": "Lovely Professional University",
+      "location": "Phagwara, Punjab",
+      "percentage": "81.2%",
+      "year": "2021-2025"
+    },
+    {
+      "degree": "Senior Secondary (12th)",
+      "institution": "St Antony’s Inter College",
+      "location": "Lucknow, UP",
+      "percentage": "77.25%",
+      "year": "2020-2021"
+    },
+    {
+      "degree": "Senior Secondary (10th)",
+      "institution": "St Antony’s Inter College",
+      "location": "Lucknow, UP",
+      "percentage": "80.75%",
+      "year": "2018-2019"
+    }
+  ],
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/saurabh-r-singh/",
+    "codechef": "https://www.codechef.com/users/saurabhsingh27",
+    "leetcode": "https://leetcode.com/Saurabh_Singh27/",
+    "geeksforgeeks": "https://www.geeksforgeeks.org/user/saurabhsingh04822/",
+    "hackerrank": "https://www.hackerrank.com/profile/12107446saurabh"
+  }
+}
